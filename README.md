@@ -1,8 +1,8 @@
 # Kubernetes Training
 
-Materials for Kubernetes 101 and 201 training courses.
+Materials for Linux 101 hands on workshop.
 
-See the [documentation](docs) or the [examples](examples).
+See the [documentation](docs).
 
 ### Summary
 
