@@ -1,4 +1,4 @@
-# Kubernetes 101 - Docker Desktop Kubernetes installation
+# Docker 101 - Docker Desktop installation for Mac
 
 Docker Desktop ships with a local Kubernetes installation.
 

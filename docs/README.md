@@ -1,13 +1,12 @@
-# Kubernetes training
+# Docker training
 
-## Kubernetes 101
+## Docker 101
 
 Step by step lessons starting with your first Kubernetes objects, up to and including managing deployments with charts.
 
 - [Part 1: Set up](./part-1-set-up.md)
-	- [Docker Desktop setup](./docker-desktop-setup.md) - preferred
-	- [Minikube setup](./minikube-setup.md)
-- [Part 2: Core workloads](./part-2-core-workloads.md)
+	- [Docker Desktop setup](docker-desktop-setup-mac.md) - preferred
+- [Part 2: Basic commands](./part-2-basic-commands.md)
 - [Part 3: Managed deployments](./part-3-managed-deployments.md)
 - [Part Z: Tidy up](./tidy-up.md)
 
