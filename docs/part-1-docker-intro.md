@@ -1,4 +1,4 @@
-# Kubernetes 101 - Part 2: Core workloads
+# Docker 101 - Part 1: Docker introduction
 
 In the previous part we stood up a local Kubernetes cluster.
 
